@@ -6,9 +6,9 @@ ID: 2023UCP1842
 ---
 ## Education
 
-| College  | Degree | CGPA/Percentage|
+| College  | Degree | CGPA/Percentage |
 | ------------- | ------------- | -------------- |
-| Malaviya National Institute of Technology Jaipur  | Computer Science and Engineering  | 7.8
+| Malaviya National Institute of Technology Jaipur  | Computer Science and Engineering  | 7.8 |
 | Deens Academy | Science  | 94% |
 ---
 ## Interests
